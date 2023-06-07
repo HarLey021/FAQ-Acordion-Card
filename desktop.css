@@ -92,6 +92,10 @@
     cursor: pointer;
   }
 
+  .arrow:hover {
+    cursor: pointer;
+  }
+
   .separator-line {
     background: #e8e8ea;
     width: 100%;
